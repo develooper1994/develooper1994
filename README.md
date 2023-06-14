@@ -5,9 +5,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 
 ## What am i doing?
 - 🔭 I am currently working on POSIX/Unix/Linux System programing for payment systems.
-- 🌱 I’m currently learning what i working on it + Qt/Qml
+- 🌱 I’m currently learning what i working on it + Qt/Qml + CMake + Docker
 - 👯 I’m looking to collaborate on readers and smart cards
-- 🤔 I’m looking for help with some special networking stuff to communicate devices. I am good at but some issues cannot resolve without test.
+- 🤔 I’m looking for help with 
+  - some special networking stuff to communicating devices. I am good at but some issues cannot resolve without test.
+  - Prepearing build enviroments. I am not a system admin. So that i have enough information about command details.
 - 💬 Ask me about [my skills](#skills)
 - 📫 How to reach me: Just send me message or open an issue.
 - 😄 Pronouns: ...
@@ -29,6 +31,8 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - POSIX/Unix/Linux
 - Qt, Qt Widget Style
 - Networking(IPv4, IPv6, MAC)
+- Build System(Cmake, Make)
+- Version Control(git)
 
 ## Projects
 ### Speech Enhancement Generative Adversarial Network - Master Thesis
