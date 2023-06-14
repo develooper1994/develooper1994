@@ -8,7 +8,7 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - 🌱 I’m currently learning what i working on it + Qt/Qml
 - 👯 I’m looking to collaborate on readers and smart cards
 - 🤔 I’m looking for help with some special networking stuff to communicate devices. I am good at but some issues cannot resolve without test.
-- 💬 Ask me about C/C++, POSIX/Unix/Linux, Qt, Networking
+- 💬 Ask me about [my skills](#skills)
 - 📫 How to reach me: Just send me message or open an issue.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: We are looking to find aliens but we are aliens.
@@ -44,7 +44,7 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
   - [RCScalculator2](https://github.com/develooper1994/RCScalculator2)
 
 ### Commander
-- Description: Radar Cross Secltion Calculator
+- Description: Commander is a easy to use process management library i wrote for my projects with Qt6
 - Technologies used: C++, Qt6
 - GitHub Repository: [Commander](https://github.com/develooper1994/Commander)
 
@@ -59,7 +59,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 
 
-- 💰➡️🍕
+
 - EEM: electrical electronics engineer
 
 <!--
