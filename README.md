@@ -55,11 +55,7 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
-
-
-
-
-
+## Shortenings
 - EEM: electrical electronics engineer
 
 <!--
