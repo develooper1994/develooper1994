@@ -60,6 +60,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Technologies used: C++, Qt6
 - GitHub Repository: [udpmanager](https://github.com/develooper1994/udpmanager)
 
+### Logger
+- Description: A simple and straightforward way to initialize and start logging within a C++ application using the Logger class, making it easier to track and analyze runtime information and potential issues.
+- Technologies used: C++, Qt6
+- GitHub Repository: [Logger](https://github.com/develooper1994/Logger)
+
 ## Contact Me
 - LinkedIn: [Mustafa Selçuk Çağlar Linkedin](https://www.linkedin.com/in/[your-linkedin-profile])
 - Youtube: [Mustafa Selçuk Çağlar Youtube](https://www.youtube.com/channel/UCSOVO6gW85DOlHlTdDcuyVg)
