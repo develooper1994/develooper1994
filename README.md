@@ -65,6 +65,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Technologies used: C++, Qt6
 - GitHub Repository: [Logger](https://github.com/develooper1994/Logger)
 
+### fbo
+- Description: This software captures what printed to framebuffer
+- Technologies used: C, Unix/Linux system apis
+- GitHun Repository: [fbo](https://github.com/develooper1994/fbo)
+
 ## Contact Me
 - LinkedIn: [Mustafa Selçuk Çağlar Linkedin](https://www.linkedin.com/in/[your-linkedin-profile])
 - Youtube: [Mustafa Selçuk Çağlar Youtube](https://www.youtube.com/channel/UCSOVO6gW85DOlHlTdDcuyVg)
