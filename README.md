@@ -5,7 +5,7 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 
 ## What am i doing?
 - 🔭 I am currently working on POSIX/Unix/Linux System programing for payment systems.
-- 🌱 I’m currently learning what i working on it + Qt/Qml + CMake + Docker
+- 🌱 I’m currently learning what i am working on it + Qt/Qml + CMake + Docker
 - 👯 I’m looking to collaborate on readers and smart cards
 - 🤔 I’m looking for help with 
   - some special networking stuff to communicating devices. I am good at but some issues cannot resolve without test.
