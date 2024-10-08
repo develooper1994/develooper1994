@@ -68,7 +68,12 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 ### fbo
 - Description: This software captures what printed to framebuffer
 - Technologies used: C, Unix/Linux system apis
-- GitHun Repository: [fbo](https://github.com/develooper1994/fbo)
+- GitHub Repository: [fbo](https://github.com/develooper1994/fbo)
+
+### Notes
+- Description: I am taking random notes about mostly about IT
+- Technologies used: Markdown
+- GitHub Repository: [Notes](https://github.com/develooper1994/Notes/tree/main)
 
 ## Contact Me
 - LinkedIn: [Mustafa Selçuk Çağlar Linkedin](https://www.linkedin.com/in/[your-linkedin-profile])
