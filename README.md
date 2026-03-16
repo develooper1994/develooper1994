@@ -70,6 +70,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Technologies used: C, Unix/Linux system apis
 - GitHub Repository: [fbo](https://github.com/develooper1994/fbo)
 
+## PCSCWorkshop
+- Description: This repository acts as a sandbox for development and experimentation with ScardTool and ScardTool-McpTool. The sandbox lives in a separate branch of the main repository.
+- Technologies used: PCSC/Smart Card, C, C++, Unix/Linux, Windows, OpenSSL
+- hGitHub Repository: [PCSCWorkshop](ttps://github.com/develooper1994/PCSCWorkshop)
+
 ### Notes
 - Description: I am taking random notes about mostly about IT
 - Technologies used: Markdown
