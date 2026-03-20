@@ -50,6 +50,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Technologies used: C#, C, HTML, MATLAB, Python, Jupyter Notebook
 - GitHub Repository: [RCScalculator2](https://github.com/develooper1994/RCScalculator2)
 
+### CppCmakeProjectTemplate
+- Description: A production-grade, multi-target C++ boilerplate engineered for seamless cross-platform development, automated quality assurance, and embedded systems integration.
+- Technologies used: C++, Cmake, Python, Docker
+- Github Repository: [CppCmakeProjectTemplate](https://github.com/develooper1994/CppCmakeProjectTemplate)
+
 ### Commander
 - Description: Commander is a meticulously crafted process management library, designed with an intuitive and user-friendly approach. I have personally developed this library for my projects, harnessing the power of Qt6. Commander provides developers with efficient and effective process management capabilities, enabling seamless control and handling of processes within their applications.
 - Technologies used: C++, Qt6
