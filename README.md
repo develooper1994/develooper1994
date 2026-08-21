@@ -85,6 +85,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Technologies used: Markdown
 - GitHub Repository: [Notes](https://github.com/develooper1994/Notes/tree/main)
 
+### ProjectIdeas
+- Description: Project Ideas
+- Technologies used: Markdown
+- GitHub Repository: [ProjectIdeas](https://github.com/develooper1994/ProjectIdeas)
+
 ## Contact Me
 - LinkedIn: [Mustafa Selçuk Çağlar Linkedin](https://www.linkedin.com/in/[your-linkedin-profile])
 - Youtube: [Mustafa Selçuk Çağlar Youtube](https://www.youtube.com/channel/UCSOVO6gW85DOlHlTdDcuyVg)
