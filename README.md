@@ -35,6 +35,11 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Version Control(git)
 
 ## Projects
+### configforge
+- Description: Configuration resolution for C that answers why a value is what it is.
+- Technologies used: C, C89, C++, Rust, Python, Fuzzer
+- GitHub Repository: [configforge](https://github.com/develooper1994/configforge)
+
 ### Speech Enhancement Generative Adversarial Network - Master Thesis
 - Description: The Speech Enhancement Generative Adversarial Network (GAN) is the subject of my master's thesis, focusing on improving the quality of speech signals by removing noise. The GAN architecture is employed to learn from the surrounding environment and effectively enhance speech signals by suppressing unwanted noise. The goal is to develop an advanced and efficient system that can enhance speech clarity and intelligibility.
 - Technologies used: Python, PyTorch
