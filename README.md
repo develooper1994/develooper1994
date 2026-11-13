@@ -30,7 +30,7 @@ I am a EEM with a passion for computers, embedded systems and artificial intelli
 - Jupyter Notebook
 - POSIX/Unix/Linux
 - Qt, Qt Widget Style
-- Networking(IPv4, IPv6, MAC)
+- Computer Networking
 - Build System(Cmake, Make)
 - Version Control(git)
 
